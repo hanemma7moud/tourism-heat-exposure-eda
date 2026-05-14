@@ -1,0 +1,51 @@
+city,region,horizon,heat_days_per_year
+Paris,Europe,hist_1995_2014,0.8
+Paris,Europe,near_2021_2040,1.9
+Paris,Europe,mid_2041_2060,5.45
+Paris,Europe,end_2081_2100,32.9
+Tokyo,Asia Pacific,hist_1995_2014,0.5
+Tokyo,Asia Pacific,near_2021_2040,4.0
+Tokyo,Asia Pacific,mid_2041_2060,8.6
+Tokyo,Asia Pacific,end_2081_2100,57.2
+New York,North America,hist_1995_2014,3.25
+New York,North America,near_2021_2040,12.05
+New York,North America,mid_2041_2060,20.35
+New York,North America,end_2081_2100,77.7
+Singapore,Asia Pacific,hist_1995_2014,2.2
+Singapore,Asia Pacific,near_2021_2040,3.6
+Singapore,Asia Pacific,mid_2041_2060,35.8
+Singapore,Asia Pacific,end_2081_2100,313.55
+Bangkok,Asia Pacific,hist_1995_2014,88.9
+Bangkok,Asia Pacific,near_2021_2040,164.5
+Bangkok,Asia Pacific,mid_2041_2060,255.9
+Bangkok,Asia Pacific,end_2081_2100,356.65
+Dubai,Middle East,hist_1995_2014,189.35
+Dubai,Middle East,near_2021_2040,206.65
+Dubai,Middle East,mid_2041_2060,219.7
+Dubai,Middle East,end_2081_2100,252.3
+Sydney,Australasia,hist_1995_2014,0.6
+Sydney,Australasia,near_2021_2040,4.1
+Sydney,Australasia,mid_2041_2060,5.9
+Sydney,Australasia,end_2081_2100,30.7
+Rome,Europe,hist_1995_2014,5.25
+Rome,Europe,near_2021_2040,15.0
+Rome,Europe,mid_2041_2060,27.35
+Rome,Europe,end_2081_2100,85.0
+London,Europe,hist_1995_2014,0.0
+London,Europe,near_2021_2040,0.0
+London,Europe,mid_2041_2060,0.0
+London,Europe,end_2081_2100,3.4
+Hong Kong,Asia Pacific,hist_1995_2014,1.0
+Hong Kong,Asia Pacific,near_2021_2040,3.95
+Hong Kong,Asia Pacific,mid_2041_2060,19.35
+Hong Kong,Asia Pacific,end_2081_2100,127.0
+Paris,Europe,end_2081_2100_ssp245,11.8
+Tokyo,Asia Pacific,end_2081_2100_ssp245,10.8
+New York,North America,end_2081_2100_ssp245,25.0
+Singapore,Asia Pacific,end_2081_2100_ssp245,72.95
+Bangkok,Asia Pacific,end_2081_2100_ssp245,295.3
+Dubai,Middle East,end_2081_2100_ssp245,223.2
+Sydney,Australasia,end_2081_2100_ssp245,10.95
+Rome,Europe,end_2081_2100_ssp245,41.7
+London,Europe,end_2081_2100_ssp245,0.2
+Hong Kong,Asia Pacific,end_2081_2100_ssp245,26.25
