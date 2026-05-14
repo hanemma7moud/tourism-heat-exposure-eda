@@ -37,11 +37,18 @@ The analysis answers two distinct questions:
 
 The trajectory reveals three city archetypes:
 
-- **Already-saturated destinations** (Dubai, Bangkok) — high baseline exposure, continuing to grow but approaching the 365-day physical ceiling.
-- **Tipping-point destinations** (Singapore, Hong Kong) — modest current exposure but a sharp end-century jump.
-- **Resilient destinations** (London, Sydney, Paris) — limited change across all periods.
+- **Trajectory toward saturation** (Bangkok, Singapore) — destinations whose end-century exposure under SSP5-8.5 reaches 85–98% of the year, regardless of where they started. Bangkok already sits at one-quarter of the year; Singapore starts at near-zero. Both end nearly fully saturated.
+
+- **Already-exposed, slowly worsening** (Dubai) — already on heat days for over half the year today; trajectory is comparatively flat (+63 days from baseline to end-century). Dubai's challenge is sustained extreme exposure rather than acceleration.
+
+- **Tipping-point destinations** (Hong Kong) — modest current exposure (~1 day/year today) but a steep end-century jump to ~127 days. Crosses thresholds that fundamentally change the city's heat regime.
+
+- **Moderate increase** (Rome, New York, Tokyo, Paris, Sydney) — meaningful absolute increases (30–85 extra days/year) but well below saturation.
+
+- **Minimal change** (London) — temperate maritime climate; even end-century projections leave heat days near zero.
 
 Each archetype implies a different adaptation pathway — a framing that directly motivates the *just adaptation* question at the heart of the host ARC project.
+
 
 ## Question B — Does mitigation matter?
 
