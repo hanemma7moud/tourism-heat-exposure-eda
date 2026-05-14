@@ -2,7 +2,7 @@
 
 A scoping analysis of projected extreme heat exposure for 10 major global tourism cities, using NASA NEX-GDDP-CMIP6 daily downscaled climate projections.
 
-**Author:** Hanem Ellethy, PhD · Brisbane, QLD · hanemma7moud@gmail.com · 2026
+**Author:** Hanem Ellethy, PhD · Brisbane, QLD · 2026
 
 ## Context
 
