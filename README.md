@@ -11,8 +11,9 @@ This repository was prepared in support of an application for the Research Fello
 The notebook prototypes an end-to-end pipeline for the kind of analysis the project requires: ingesting NASA's high-resolution climate projections, sampling them at major tourism destinations, computing a heat-exposure metric relevant to visitor health, and visualising change across IPCC time horizons and emissions scenarios.
 
 ## Note on scope and intent 
-I should acknowledge that climate science and tourism are new domains for me. My background is in clinical AI. But when I read the project description and saw that NEX-GDDP-CMIP6 is publicly available, I couldn't resist exploring it, the methodological core (integrating multi-source spatial-temporal data into predictive frameworks) is the work I've done throughout my PhD and post-doctoral career, applied to a domain I find compelling.
-I'm offering this scoping analysis not as proof of domain expertise, I don't have it yet, but as evidence of how I would approach the project: by getting into the data quickly, being honest about limitations, and building methodological scaffolding that the substantive experts on the team can then refine. The analytical reflex transfers; the domain knowledge I would learn under mentorship, exactly as the position description envisages.
+Climate science and tourism are new domains for me, my background is in clinical AI. When I read the project description and saw that NEX-GDDP-CMIP6 is publicly available, I wanted to explore it directly: the methodological core of the project, integrating multi-source spatial-temporal data into predictive frameworks, is the work I have done throughout my PhD and post-doctoral career, applied to a domain I find compelling.
+
+This scoping analysis is offered not as proof of domain expertise, which I don't yet have, but as evidence of how I would approach the project: by getting into the data quickly, being honest about limitations, and building methodological scaffolding that the substantive experts on the team can refine. The analytical reflex transfers; the domain knowledge I would learn under mentorship, as the position description envisages.
 
 ## Questions addressed
 
